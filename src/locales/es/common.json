@@ -1,0 +1,87 @@
+{
+  "common": {
+    "app": {
+      "name": "Better Agents",
+      "title": "Better Agents - AI Agent Configuration Manager"
+    },
+    "actions": {
+      "open": "Abrir",
+      "close": "Cerrar",
+      "save": "Guardar",
+      "saveAs": "Guardar como...",
+      "cancel": "Cancelar",
+      "delete": "Eliminar",
+      "create": "Crear",
+      "edit": "Editar",
+      "search": "Buscar",
+      "install": "Instalar",
+      "export": "Exportar",
+      "import": "Importar",
+      "copy": "Copiar",
+      "browse": "Explorar"
+    },
+    "topbar": {
+      "openFolders": "Abrir Carpetas",
+      "selectWorkspace": "Seleccionar Workspace",
+      "searchPlaceholder": "Buscar archivos...",
+      "language": "Idioma",
+      "theme": "Tema"
+    },
+    "sidebar": {
+      "workspaces": "Workspaces",
+      "explorer": "Explorador",
+      "marketplace": "Marketplace",
+      "settings": "Configuración"
+    },
+    "editor": {
+      "unsavedChanges": "Cambios sin guardar",
+      "noFileOpen": "No hay archivos abiertos",
+      "metadata": "Metadatos",
+      "preview": "Vista previa"
+    },
+    "workspace": {
+      "noWorkspaces": "No hay workspaces abiertos",
+      "openFolder": "Abrir una carpeta para comenzar",
+      "recentWorkspaces": "Workspaces recientes"
+    },
+    "marketplace": {
+      "title": "Skills Marketplace",
+      "searchKeyword": "Búsqueda por palabra clave",
+      "searchAI": "Búsqueda con IA",
+      "noResults": "No se encontraron resultados",
+      "installSuccess": "Skill instalado exitosamente",
+      "installError": "Error al instalar skill"
+    },
+    "providers": {
+      "betterAgents": "Better Agents",
+      "gemini": "Gemini CLI",
+      "claude": "Claude Code",
+      "cursor": "Cursor",
+      "copilot": "GitHub Copilot",
+      "windsurf": "Windsurf",
+      "cline": "Cline",
+      "continue": "Continue",
+      "aider": "aider"
+    },
+    "templates": {
+      "newRule": "Nueva Regla",
+      "newSkill": "Nueva Skill",
+      "newWorkflow": "Nuevo Workflow"
+    },
+    "export": {
+      "title": "Exportar Configuración",
+      "selectItems": "Seleccionar elementos a exportar",
+      "success": "Configuración exportada exitosamente"
+    },
+    "import": {
+      "title": "Importar Configuración",
+      "selectFile": "Seleccionar archivo ZIP",
+      "preview": "Vista previa",
+      "success": "Configuración importada exitosamente"
+    },
+    "themes": {
+      "light": "Claro",
+      "dark": "Oscuro"
+    }
+  }
+}

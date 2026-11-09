@@ -1,0 +1,87 @@
+{
+  "common": {
+    "app": {
+      "name": "Better Agents",
+      "title": "Better Agents - AI Agent Configuration Manager"
+    },
+    "actions": {
+      "open": "Open",
+      "close": "Close",
+      "save": "Save",
+      "saveAs": "Save as...",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "create": "Create",
+      "edit": "Edit",
+      "search": "Search",
+      "install": "Install",
+      "export": "Export",
+      "import": "Import",
+      "copy": "Copy",
+      "browse": "Browse"
+    },
+    "topbar": {
+      "openFolders": "Open Folders",
+      "selectWorkspace": "Select Workspace",
+      "searchPlaceholder": "Search files...",
+      "language": "Language",
+      "theme": "Theme"
+    },
+    "sidebar": {
+      "workspaces": "Workspaces",
+      "explorer": "Explorer",
+      "marketplace": "Marketplace",
+      "settings": "Settings"
+    },
+    "editor": {
+      "unsavedChanges": "Unsaved changes",
+      "noFileOpen": "No files open",
+      "metadata": "Metadata",
+      "preview": "Preview"
+    },
+    "workspace": {
+      "noWorkspaces": "No workspaces open",
+      "openFolder": "Open a folder to get started",
+      "recentWorkspaces": "Recent workspaces"
+    },
+    "marketplace": {
+      "title": "Skills Marketplace",
+      "searchKeyword": "Keyword Search",
+      "searchAI": "AI Search",
+      "noResults": "No results found",
+      "installSuccess": "Skill installed successfully",
+      "installError": "Error installing skill"
+    },
+    "providers": {
+      "betterAgents": "Better Agents",
+      "gemini": "Gemini CLI",
+      "claude": "Claude Code",
+      "cursor": "Cursor",
+      "copilot": "GitHub Copilot",
+      "windsurf": "Windsurf",
+      "cline": "Cline",
+      "continue": "Continue",
+      "aider": "aider"
+    },
+    "templates": {
+      "newRule": "New Rule",
+      "newSkill": "New Skill",
+      "newWorkflow": "New Workflow"
+    },
+    "export": {
+      "title": "Export Configuration",
+      "selectItems": "Select items to export",
+      "success": "Configuration exported successfully"
+    },
+    "import": {
+      "title": "Import Configuration",
+      "selectFile": "Select ZIP file",
+      "preview": "Preview",
+      "success": "Configuration imported successfully"
+    },
+    "themes": {
+      "light": "Light",
+      "dark": "Dark"
+    }
+  }
+}
